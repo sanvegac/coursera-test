@@ -31,7 +31,7 @@ p {
 #p2 {
   background-color: #DEB887;
   float: right;
-  width: 20%;
+  width: 100px;
   text-align: center;
   border: 1px solid black;
   font-size: 125%
@@ -40,7 +40,7 @@ p {
 #p3 {
   background-color: #C7BF7E ;
   float: right;
-  width: 20%;
+  width: 100px;
   text-align: center;
   border: 1px solid black;
   font-size: 125%
@@ -49,7 +49,7 @@ p {
 #p4 {
   background-color: #8FC7D1 ;
   float: right;
-  width: 20%;
+  width: 100px;
   text-align: center;
   border: 1px solid black;
   font-size: 125%
