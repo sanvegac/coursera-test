@@ -10,7 +10,7 @@ h1 {
   text-align: center;
   font-weight: bold;
   font-family: Helvetica;
-  font-size: 175%
+  font-size: 175%;
 }
 
 p {
@@ -34,7 +34,7 @@ p {
   width: 100px;
   text-align: center;
   border: 1px solid black;
-  font-size: 125%
+  font-size: 125%;
 }
 
 #p3 {
@@ -43,7 +43,7 @@ p {
   width: 100px;
   text-align: center;
   border: 1px solid black;
-  font-size: 125%
+  font-size: 125%;
 }
 
 #p4 {
@@ -52,7 +52,7 @@ p {
   width: 100px;
   text-align: center;
   border: 1px solid black;
-  font-size: 125%
+  font-size: 125%;
 }
 
 #div2 {
@@ -85,7 +85,7 @@ p {
     width: 25%;
   }
   .col-lg-4 {
-    width: 33.33%
+    width: 33.33%;
   }
   .col-lg-5 {
     width: 41.66%;
