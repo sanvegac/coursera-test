@@ -12,6 +12,11 @@ body {
   border: 0;
 }
 
+#header-nav > .container {
+margin-left: 15px
+
+}
+
 .navbar-brand h1 {/* Restaurant name */
   font-family: 'IBM Plex Sans Arabic', sans-serif;
   color: #000000;
@@ -22,6 +27,8 @@ body {
   font-weight: bold;
   text-align: left;
 }
+
+
 
 h1 {
   font-weight: bold;
